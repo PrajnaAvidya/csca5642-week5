@@ -1,0 +1,7 @@
+/.venv
+/week5-data
+/generated_samples
+.idea
+*.keras
+images.zip
+/images
